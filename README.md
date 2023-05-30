@@ -5,7 +5,7 @@ Versi 1.3.1 Dari ichigyou
 Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Tod!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://telegra.ph/file/66aeb657f0ba47559e080.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/ecb4d4980e00b1a39a356.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## PENTING
