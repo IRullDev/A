@@ -53,7 +53,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 ---------
 
 ## ```Nama Session```
-* Sessions 
+* ./Session 
 
 ## `--self`
 * Activate self mode (Ignores other)
