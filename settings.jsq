@@ -3,13 +3,13 @@ const fs = require('fs') //jangan di ubah
 //SC INI GRATIS, JIKA DIJUAL NERAKA MENUNGGUMU BROTHER//
 
 /*============== UMUM ==============*/
-global.namabot = "ichigyou" // nama bot 
-global.namaowner = "iky" // nama owner
-global.owner = ['6282275403263'] // nomor owner 
-global.packname = 'Nomor Bot : 082250231163' // wm sticker yang diawal 
-global.author = 'Sticker By iky' // wm sticker yang di akhir
-global.fakelink = 'https://chat.whatsapp.com/HjvNhA5PfSS0sJ4ejnLDWp' //link grup
-global.grubbot = 'https://chat.whatsapp.com/HjvNhA5PfSS0sJ4ejnLDWp' // link grup 
+global.namabot = "Akio" // nama bot 
+global.namaowner = "IRull" // nama owner
+global.owner = ['6285731251154'] // nomor owner 
+global.packname = 'Akio' // wm sticker yang diawal 
+global.author = 'Sticker By Akio' // wm sticker yang di akhir
+global.fakelink = 'https://chat.whatsapp.com' //link grup
+global.grubbot = 'https://chat.whatsapp.com' // link grup 
 /*============== END ==============*/
 
 /*============== LINK THUMBNAIL ==============*/
@@ -33,11 +33,10 @@ global.donasi = (`
 ─O─O──────────
 ››〔 *DONASI* 〕
 donasi seikhlasnya kak^_^
-untuk pengembangan ichigyou
+untuk pengembangan akioo
 
 ››〔 *PAYMENT* 〕
-Dana : 085369097142
-Pulsa : 082275403263
+Chat Owner Bot
 
 ››〔 *NOTE* 〕
 jika sudah melakukan
@@ -60,14 +59,13 @@ sewa bot murah!!
 30 Day : 10k
 
 ››〔 *PAYMENT* 〕
-Dana : 085369097142
-Pulsa : 082275403263
+Owner
 
 ››〔 *NOTE* 〕
 jika sudah melakukan
 transfer, kirim bukti
-pembayaran ke
-wa.me/6282275403263
+pembayaran ke owner
+
 `) // jangan hapus (` dan `) \\
 /*============== END ==============*/
  
@@ -117,7 +115,7 @@ global.limitawal = {
 
 /*============== SIMBOL ==============*/
 global.simbol = (`≼≽`) // simbol awal list
-global.simboll = (`🚩`) // simbol awal teks respon
+global.simboll = (`🍁`) // simbol awal teks respon
 /*============== END ==============*/
 
 /*============== TRUE AND FALSE ==============*/
